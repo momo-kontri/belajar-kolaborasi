@@ -1,2 +1,2 @@
 # belajar-kolaborasi
-coba squash 1
+coba squash 2
